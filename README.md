@@ -30,6 +30,9 @@ Pre-final year Computer Science Engineering student @VIT Chennai, based in Vadod
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dot-net&logoColor=white&style=flat)
 
 
+[![An image of @thebigjoe29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thebigjoe29)](https://holopin.io/@thebigjoe29)
+
+
 
 
 Thanks for visiting my GitHub profile! 😊

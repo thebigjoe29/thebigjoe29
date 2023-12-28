@@ -5,7 +5,7 @@ Pre-final year Computer Science Engineering student @VIT Chennai, based in Vadod
 -  Email me at eshaanjoshi.work@gmail.com
 -  Link to access [Resume](https://drive.google.com/file/d/1yDM-WLd3ynQUYep8bquJB5AAKBCi6t-q/view?usp=sharing)
 
-##  Personal/Professional Projects [Pinned below]
+##  Technical Projects [Pinned below]
 - *Travellio*:  AI - integrated application with 150000$+ in funding under the Microsoft for Startups
 program, an effort to connect solo travellers across the world and bettering their experience using a swipe based
 recommendation algorithm.

@@ -1,7 +1,7 @@
 #  Hello, I'm Eshaan Joshi!
-Pre-final year Computer Science Engineering student @VIT Chennai, based in Vadodara. Lead developer @ Travellio | Ex-SDE Intern @ Tntra | ML Research Intern | App Developer @ IEEE-RAS
+Pre-final year Computer Science Engineering student @VIT Chennai, based in Vadodara. Lead developer @ Travellio | Ex-SDE Intern @ Tntra | ML Research Intern | App Developer @ IEEE-RAS | Open Source
 
--  I'm currently learning Containerization, Docker and Cloud deployment.
+-  Flutter/React Native Dev, AWS deployment, ASP.NET WebAPIs, Backend Dev (Node.js, Python)
 -  Email me at eshaanjoshi.work@gmail.com
 
 ##  My Projects

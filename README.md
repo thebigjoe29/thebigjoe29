@@ -1,10 +1,10 @@
-#  Hello, I'm Eshaan Joshi👋
+#  Hello, I'm Eshaan Joshi!
 Pre-final year Computer Science Engineering student @VIT Chennai, based in Vadodara. I'm passionate about software development and collaborative coding. 
 
-- 🌱 I'm currently learning Containerization, Docker and Cloud deployment.
-- 📫 Email me at eshaanjoshi.work@gmail.com
+-  I'm currently learning Containerization, Docker and Cloud deployment.
+-  Email me at eshaanjoshi.work@gmail.com
 
-## 🚀 My Projects:
+##  My Projects:
 
 - You can find all my updated projects at https://github.com/thebigjoe29?tab=repositories
 ## 💻 Tech Stack:
@@ -35,5 +35,5 @@ Pre-final year Computer Science Engineering student @VIT Chennai, based in Vadod
 
 
 
-Thanks for visiting my GitHub profile! 😊
+Thanks for visiting my GitHub profile! 
 

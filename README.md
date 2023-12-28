@@ -4,10 +4,10 @@ Pre-final year Computer Science Engineering student @VIT Chennai, based in Vadod
 -  I'm currently learning Containerization, Docker and Cloud deployment.
 -  Email me at eshaanjoshi.work@gmail.com
 
-##  My Projects:
+##  My Projects
 
 - You can find all my updated projects at https://github.com/thebigjoe29?tab=repositories
-## 💻 Tech Stack:
+##  Tech Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat)

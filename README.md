@@ -4,9 +4,27 @@ Pre-final year Computer Science Engineering student @VIT Chennai, based in Vadod
 -  Flutter/React Native Dev, AWS deployment, ASP.NET WebAPIs, Backend Dev (Node.js, Python)
 -  Email me at eshaanjoshi.work@gmail.com
 
-##  My Projects
-
-- You can find all my updated projects at https://github.com/thebigjoe29?tab=repositories
+##  Personal Projects [Pinned below]
+- *Travellio*:  AI - integrated application with 150000$+ in funding under the Microsoft for Startups
+program, an effort to connect solo travellers across the world and bettering their experience using a swipe based
+recommendation algorithm.
+---
+- *Suraksha*: An advanced CV model and application for real-time geolocation tracking of active police personnel (Bandobast).
+---
+- *Jellybean Student Tracker*: Award-winning LMS portal for tracking students’ coding progress across various
+learning platforms. Saves mentor time by a measured 25% and increases productivity.
+---
+- *Globechat*: RTC(Real Time Communication) platform with in-app multilingual support for 50+ languages and
+chatroom functionality, built using socket programming and cloud hosted backend.
+---
+- *Peter Tingle*: iOS/Android app teaching shapes, numerals via a doodle board, and a dynamic
+UI. Placed 9th at FlutterFest (Google Developer Student Club).
+---
+- *Priori-Task*: AWS hosted scalable task management system with a secure backend server, featuring personalized
+dashboards for each user, JWT token authentication, password protection and a 30% increase in user efficiency.
+---
+- *ClimaSure*: Firebase-hosted application for real-time weather information, fetching
+data in less than 0.8 seconds with certified weather APIs. Features user-friendly visuals and animations.
 ##  Tech Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat)

@@ -3,6 +3,7 @@ Pre-final year Computer Science Engineering student @VIT Chennai, based in Vadod
 
 -  Flutter/React Native Dev, AWS deployment, ASP.NET WebAPIs, Backend Dev (Node.js, Python)
 -  Email me at eshaanjoshi.work@gmail.com
+-  Link to access [Resume](https://drive.google.com/file/d/1yDM-WLd3ynQUYep8bquJB5AAKBCi6t-q/view?usp=sharing)
 
 ##  Personal Projects [Pinned below]
 - *Travellio*:  AI - integrated application with 150000$+ in funding under the Microsoft for Startups

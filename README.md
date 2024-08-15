@@ -1,11 +1,18 @@
 #  Hello, I'm Eshaan Joshi!
-Pre-final year Computer Science Engineering student @VIT Chennai, based in Vadodara. Lead developer @ Travellio | Ex-SDE Intern @ Tntra | ML Research Intern | App Developer @ IEEE-RAS | Open Source
+Final year Computer Science Engineering student @VIT Chennai, based in Vadodara. Lead developer @ Travellio | Ex-SDE Intern @ Tntra | ML Research Intern | App Developer @ IEEE-RAS | Open Source
 
--  Flutter/React Native Dev, AWS deployment, ASP.NET WebAPIs, Backend Dev (Node.js, Python)
+-  Flutter/React Native Dev, Django REST APIs, AWS deployment, ASP.NET WebAPIs, Backend Dev (Node.js, Python)
 -  Email me at eshaanjoshi.work@gmail.com
 -  Link to access [Resume](https://drive.google.com/file/d/1yDM-WLd3ynQUYep8bquJB5AAKBCi6t-q/view?usp=sharing)
 
 ##  Technical Projects [Pinned below]
+- *Crypto Alert*:  A Django application leveraging RabbitMQ and Celery to process live Bitcoin price alerts with 20%
+improved API response times through optimized caching and pagination. Integrated JWT authentication and automated
+email notifications to deliver real-time user updates.
+---
+- *Globechat*: RTC(Real Time Communication) platform with in-app multilingual support for 50+ languages and
+chatroom functionality, built using socket programming and cloud hosted backend.
+---
 - *Travellio*:  AI - integrated application with 150000$+ in funding under the Microsoft for Startups
 program, an effort to connect solo travellers across the world and bettering their experience using a swipe based
 recommendation algorithm.
@@ -14,9 +21,6 @@ recommendation algorithm.
 ---
 - *Jellybean Student Tracker*: Award-winning LMS portal for tracking students’ coding progress across various
 learning platforms. Saves mentor time by a measured 25% and increases productivity.
----
-- *Globechat*: RTC(Real Time Communication) platform with in-app multilingual support for 50+ languages and
-chatroom functionality, built using socket programming and cloud hosted backend.
 ---
 - *Peter Tingle*: iOS/Android app teaching shapes, numerals via a doodle board, and a dynamic
 UI. Placed 9th at FlutterFest (Google Developer Student Club).
@@ -34,7 +38,7 @@ data in less than 0.8 seconds with certified weather APIs. Features user-friendl
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-61DAFB?style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-
+![Django](https://img.shields.io/badge/django-3.2%2B-brightgreen)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)

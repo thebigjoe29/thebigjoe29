@@ -3,7 +3,7 @@ Final year Computer Science Engineering student @VIT Chennai, based in Vadodara.
 
 -  Flutter/React Native Dev, Django REST APIs, AWS deployment, ASP.NET WebAPIs, Backend Dev (Node.js, Python)
 -  Email me at eshaanjoshi.work@gmail.com
--  Link to access [Resume](https://drive.google.com/file/d/1yDM-WLd3ynQUYep8bquJB5AAKBCi6t-q/view?usp=sharing)
+-  Link to access [Resume](https://drive.google.com/file/d/1bH9HEShcGobQBYqGU0AcSAFAKLkcWaDT/view?usp=sharing)
 
 ##  Technical Projects [Pinned below]
 - *Crypto Alert*:  A Django application leveraging RabbitMQ and Celery to process live Bitcoin price alerts with 20%
